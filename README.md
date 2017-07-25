@@ -1,2 +1,2 @@
-# mern-stack
+# Mern stack
 Full stack web with Mongo, Express, React and Node.
